@@ -1,1 +1,1 @@
-#Trollas. Inc. OS - Xiaomi Redmi Note 8 📱
+# Trollas. Inc. OS - Xiaomi Redmi Note 8 📱
