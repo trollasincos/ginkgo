@@ -3,5 +3,5 @@
   "build": "BETA.OS17.UI1.20261122",
   "os_version": "17",
   "ui_version": "1",
-  "url": "https://example.com/update.zip"
+  "url": "https://github.com/trollasincos/ginkgo/releases/download/test/TrollasIncOS-20261122-154719.zip"
 }
