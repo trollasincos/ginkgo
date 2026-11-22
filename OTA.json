@@ -1,0 +1,7 @@
+{
+  "device": "ginkgo",
+  "build": "BETA.OS17.UI1.20261108",
+  "os_version": "17",
+  "ui_version": "1",
+  "url": "https://example.com/update.zip"
+}
